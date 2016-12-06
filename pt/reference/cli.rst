@@ -3,9 +3,9 @@ Aplicações de Linha de Comando
 
 Aplicações CLI são executadas pela linha de comando. Elas são usadas para criar tarefas agendadas (Cron Jobs), scripts, comandos úteis e muito mais.
 
-Structure
+Estrutura
 ---------
-A minimal structure of a CLI application will look like this:
+Estrutura mínima de uma aplicação CLI deve ficar assim:
 
 * app/config/config.php
 * app/tasks/MainTask.php
